@@ -1,0 +1,81 @@
+/* BELOW 1200px */
+@media (max-width: 75em) {
+  html {
+    font-size: 56.2%;
+  }
+
+  .container {
+    margin: 10rem 4.8rem;
+  }
+
+  .text-box {
+    padding: 4.8rem;
+    padding-right: 6.4rem;
+    gap: 6.4rem;
+  }
+
+  .attribution {
+    margin-bottom: 1.6rem;
+  }
+}
+
+/* BELOW 992px */
+@media (max-width: 56.25em) {
+  .container {
+    grid-template-columns: 1fr;
+  }
+
+  .main-heading {
+    font-size: 5.2rem;
+  }
+
+  .main-text {
+    font-size: 1.8rem;
+  }
+
+  .img-container {
+    height: 50rem;
+    grid-row: 1;
+  }
+}
+
+/* BELOW 640px */
+@media (max-width: 40em) {
+  html {
+    font-size: 50%;
+  }
+
+  .text-box {
+    padding: 3.2rem 2.4rem;
+  }
+
+  .main-heading {
+    font-size: 3.6rem;
+    line-height: 1.2;
+  }
+
+  .text-box {
+    gap: 4.8rem;
+  }
+
+  .card-text {
+    text-align: center;
+    gap: 3.2rem;
+  }
+
+  .stats {
+    flex-direction: column;
+    gap: 3.2rem;
+  }
+
+  .stats-text {
+    align-items: center;
+  }
+}
+
+/* BELOW 320px */
+@media (max-width: 20em) {
+  html {
+    font-size: 43.7%;
+  }
+}
