@@ -28,4 +28,4 @@ In subsequent projects or challenges, I want to be able to make proper use of th
 
 - Website - [Precious Umeh](https://precious-umeh.netlify.app)
 - Frontend Mentor - [@precious-umeh](https://www.frontendmentor.io/profile/precious-umeh)
-- Twitter - [@chukwu_anugo](https://x.com/chukwu_anugo)
+- X - [@chukwu_anugo](https://x.com/chukwu_anugo)
