@@ -8,8 +8,8 @@ A component of a stats preview card with some texts and an image, built with css
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-using-css-grids-and-flexbox-e1v0NR5Kdx)
+- [Live site URL](https://precious-umeh.github.io/stats-preview-card/)
 
 ## My process
 
